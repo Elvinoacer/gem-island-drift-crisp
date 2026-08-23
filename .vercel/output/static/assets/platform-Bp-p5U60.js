@@ -1,0 +1,1 @@
+import{c as e}from"./useNavigate-B9A5FANB.js";import{d as t}from"./index-BUJ9LJEO.js";import{n}from"./use-current-user-CzUq4unU.js";import{t as r}from"./gates-BH_WUAHi.js";import{n as i}from"./page-state-CMKX3wKF.js";var a=e();function o(){let{user:e,isPending:o}=n();return o?(0,a.jsx)(i,{label:`Opening platform`}):e?(0,a.jsx)(t,{}):(0,a.jsx)(r,{})}export{o as component};

@@ -1,0 +1,1 @@
+function e(e){let t=new Date(e);return Number.isNaN(t.getTime())?e:t.toLocaleString(`en-KE`,{day:`numeric`,month:`short`,year:`numeric`,hour:`2-digit`,minute:`2-digit`})}function t(e){return e===`low`?`Low stock`:e===`out`?`Out of stock`:`In stock`}export{t as n,e as t};

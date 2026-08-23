@@ -1,0 +1,1 @@
+import{r as e}from"./route-Brs5nMlV.js";var t=e(`/p/$slug`);function n(){return t.useLoaderData()}export{n as t};

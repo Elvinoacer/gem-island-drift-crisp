@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aether — The pharmacy network for Kenya",
+      "hasCanvas": false,
+      "bodyTextLen": 1837,
+      "bodyTextHash": "6cfbf8f1f6467c9539b1d1c935fcafc1ae048c458e8e898d6593503c4028558d",
+      "bodyTextPrefix": "Aether Pharmacy Network Find a pharmacy For pharmacies Patient p",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aether — The pharmacy network for Kenya",
+      "hasCanvas": false,
+      "bodyTextLen": 1791,
+      "bodyTextHash": "1dac48b56ec356029d924d0021abbf9cf5bf3f4b1035af5dc388eee0cea444e7",
+      "bodyTextPrefix": "Aether Pharmacy Network Sign in KENYA · LICENSED NEIGHBOURHOOD C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
